@@ -1,41 +1,72 @@
-<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Samuel%20Alves&fontSize=40&fontColor=ffffff&color=0:0A3D91,100:1E90FF&animation=fadeIn"/>
 </div>
 
-###
+<h1 align="center">👋 Hello, I'm Samuel Alves</h1>
+
+<p align="center">
+💻 Software Development Student <br>
+📊 Interested in Automation and Data Analysis <br>
+🚀 Python | JavaScript | SQL
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamukaAlves&color=blue" />
+</p>
+
+---
+
+<h2 align="center">🛠 Languages and Tools</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,figma,mysql,git,github" height="60"/>
 </div>
 
-###
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamukaAlves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+
+</p>
+
+---
+
+<h2 align="center">👾 Contribution Graph</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamukaAlves/SamukaAlves/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamukaAlves/SamukaAlves/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SamukaAlves/SamukaAlves/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+---
+
+<h2 align="center">📫 Contact</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/samuel-lima-alves-b16628268/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:contatosamuel.lima23@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_samuhalves">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1F3A8A,100:2563EB"/>
+</div>
