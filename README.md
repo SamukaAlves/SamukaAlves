@@ -11,12 +11,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamukaAlves&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=SamukaAlves&color=blue"/>
 </p>
 
 ---
 
-<h2 align="center">🛠 Languages and Tools</h2>
+<p align="center"><b>🛠 Languages and Tools</b></p>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,figma,mysql,git,github" height="60"/>
@@ -24,18 +24,15 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<p align="center"><b>📊 GitHub Stats</b></p>
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamukaAlves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-
 </p>
 
 ---
 
-<h2 align="center">👾 Contribution Graph</h2>
+<p align="center"><b>👾 Contribution Graph</b></p>
 
 <div align="center">
 
@@ -49,7 +46,7 @@
 
 ---
 
-<h2 align="center">📫 Contact</h2>
+<p align="center"><b>📫 Contacte-me</b></p>
 
 <div align="center">
 
