@@ -19,7 +19,7 @@
 <p align="center"><b>🛠 Languages and Tools</b></p>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,figma,mysql,git,github" height="60"/>
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,figma,mysql,git,github,bootstrap" height="60"/>
 </div>
 
 ---
