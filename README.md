@@ -2,12 +2,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Samuel%20Alves&fontSize=40&fontColor=ffffff&color=0:0A3D91,100:1E90FF&animation=fadeIn"/>
 </div>
 
-<h1 align="center">👋 Hello, I'm Samuel Alves</h1>
+<h1 align="center">👋 Olá, eu sou o Samuel Alves</h1>
 
 <p align="center">
-💻 Software Development Student <br>
-📊 Focused on Automation, Financial Systems and Data Analysis <br>
-🚀 Turning manual processes into scalable solutions
+💻 Estudante de Desenvolvimento de Software <br>
+📊 Focado em Automação, Sistemas Financeiros e Análise de Dados <br>
+🚀 Transformando processos manuais em soluções escaláveis
 </p>
 
 <p align="center">
@@ -16,17 +16,17 @@
 
 ---
 
-<p align="center"><b>🧠 About Me</b></p>
+<p align="center"><b>🧠 Sobre mim</b></p>
 
 <p align="center">
-I’m passionate about solving real-world problems through technology — especially automating repetitive processes and improving operational efficiency.<br><br>
+Gosto de resolver problemas reais com tecnologia — principalmente automatizando processos repetitivos e melhorando a eficiência operacional.<br><br>
 
-Currently working with administrative operations and financial routines, which gives me a strong business vision combined with technical skills.
+Atuo com rotinas administrativas e financeiras, o que me dá uma visão de negócio forte aliada ao desenvolvimento técnico.
 </p>
 
 ---
 
-<p align="center"><b>🛠 Languages and Tools</b></p>
+<p align="center"><b>🛠 Tecnologias</b></p>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,html,css,figma,mysql,git,github,bootstrap" height="60"/>
@@ -34,40 +34,45 @@ Currently working with administrative operations and financial routines, which g
 
 ---
 
-<p align="center"><b>🚀 Featured Projects</b></p>
+<p align="center"><b>🚀 Projetos em Destaque</b></p>
 
 <div align="center">
-  <a href="https://github.com/SamukaAlves/cnab_converter">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SamukaAlves&repo=cnab_converter&theme=dracula"/>
-  </a>
-  <a href="https://github.com/devJoaoVCosta/Auto_SEI">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=devJoaoVCosta&repo=Auto_SEI&theme=dracula"/>
-  </a>
+
+<a href="https://github.com/SamukaAlves/cnab_converter">
+  <img src="https://img.shields.io/badge/📊%20CNAB%20Converter-Automação%20Financeira-1E90FF?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/devJoaoVCosta/Auto_SEI">
+  <img src="https://img.shields.io/badge/🤖%20Auto%20SEI-Automação%20de%20Processos-0A3D91?style=for-the-badge"/>
+</a>
+
 </div>
 
 <br>
 
 <p align="center">
 <b>📌 CNAB Converter</b><br>
-Automation tool for generating CNAB 240 payment files (Banco do Brasil), reducing manual errors and enabling batch financial operations.
+Ferramenta para geração automatizada de arquivos CNAB 240 (Banco do Brasil), reduzindo erros manuais e permitindo operações financeiras em lote.
 </p>
 
 <p align="center">
 <b>📌 Auto SEI</b><br>
-Automation for government document workflows, reducing repetitive tasks and improving processing speed.
+Automação de fluxos no sistema SEI, reduzindo tarefas repetitivas e aumentando a produtividade.
 </p>
 
 ---
 
-<p align="center"><b>📊 GitHub Stats</b></p>
+<p align="center"><b>📊 Estatísticas do GitHub</b></p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamukaAlves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamukaAlves&theme=dracula"/>
 </p>
 
 ---
 
-<p align="center"><b>👾 Contribution Graph</b></p>
+<p align="center"><b>👾 Gráfico de Contribuições</b></p>
 
 <div align="center">
 
@@ -81,7 +86,7 @@ Automation for government document workflows, reducing repetitive tasks and impr
 
 ---
 
-<p align="center"><b>📫 Contact</b></p>
+<p align="center"><b>📫 Contato</b></p>
 
 <div align="center">
 
