@@ -6,7 +6,7 @@
 
 <p align="center">
 💻 Estudante de Desenvolvimento de Software <br>
-📊 Focado em Automação, Sistemas Financeiros e Análise de Dados <br>
+📊 Focado em Automação, Desenvolcimento Backend e Análise de Dados <br>
 🚀 Transformando processos manuais em soluções escaláveis
 </p>
 
@@ -19,7 +19,7 @@
 <p align="center"><b>🧠 Sobre mim</b></p>
 
 <p align="center">
-Gosto de resolver problemas reais com tecnologia — principalmente automatizando processos repetitivos e melhorando a eficiência operacional.<br><br>
+Gosto de resolver problemas reais com tecnologia — principalmente mitigando processos repetitivos e melhorando a eficiência operacional.<br><br>
 
 Atuo com rotinas administrativas e financeiras, o que me dá uma visão de negócio forte aliada ao desenvolvimento técnico.
 </p>
