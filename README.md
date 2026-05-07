@@ -6,8 +6,8 @@
 
 <p align="center">
 💻 Software Development Student <br>
-📊 Interested in Automation and Data Analysis <br>
-🚀 Python | JavaScript | SQL
+📊 Focused on Automation, Financial Systems and Data Analysis <br>
+🚀 Turning manual processes into scalable solutions
 </p>
 
 <p align="center">
@@ -16,18 +16,53 @@
 
 ---
 
+<p align="center"><b>🧠 About Me</b></p>
+
+<p align="center">
+I’m passionate about solving real-world problems through technology — especially automating repetitive processes and improving operational efficiency.<br><br>
+
+Currently working with administrative operations and financial routines, which gives me a strong business vision combined with technical skills.
+</p>
+
+---
+
 <p align="center"><b>🛠 Languages and Tools</b></p>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,ts,js,node,html,css,figma,mysql,git,github,bootstrap" height="60"/>
+<img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,html,css,figma,mysql,git,github,bootstrap" height="60"/>
 </div>
+
+---
+
+<p align="center"><b>🚀 Featured Projects</b></p>
+
+<div align="center">
+  <a href="https://github.com/SamukaAlves/cnab_converter">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SamukaAlves&repo=cnab_converter&theme=dracula"/>
+  </a>
+  <a href="https://github.com/devJoaoVCosta/Auto_SEI">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=devJoaoVCosta&repo=Auto_SEI&theme=dracula"/>
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+<b>📌 CNAB Converter</b><br>
+Automation tool for generating CNAB 240 payment files (Banco do Brasil), reducing manual errors and enabling batch financial operations.
+</p>
+
+<p align="center">
+<b>📌 Auto SEI</b><br>
+Automation for government document workflows, reducing repetitive tasks and improving processing speed.
+</p>
 
 ---
 
 <p align="center"><b>📊 GitHub Stats</b></p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamukaAlves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamukaAlves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -46,7 +81,7 @@
 
 ---
 
-<p align="center"><b>📫 Contacte-me</b></p>
+<p align="center"><b>📫 Contact</b></p>
 
 <div align="center">
 
