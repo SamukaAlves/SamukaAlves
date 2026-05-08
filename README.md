@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá, eu sou o Samuel Alves</h1>
 
 <p align="center">
-💻 Estudante de Desenvolvimento de Software <br>
+💻 Profissional de Desenvolvimento de Software <br>
 📊 Focado em Automação, Desenvolcimento Backend e Análise de Dados <br>
 🚀 Transformando processos manuais em soluções escaláveis
 </p>
